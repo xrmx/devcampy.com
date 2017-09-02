@@ -1,0 +1,66 @@
+---
+layout: default
+---
+{% include nav.html %}
+
+<div class="container-fluid no-padding">
+	<div class="row">
+        <div id="videoWrapper" class="col-md-12">
+            <iframe width="100%" src="{{ page.youtube-url }}" frameborder="0" allowfullscreen></iframe>
+        </div>
+	</div>
+    <div class="clear"></div>
+</div>
+
+<div class="container" id="talk-content">
+	<div class="row">
+		<div class="col-md-8">
+            <div class="row">
+                <div class="col-md-12">
+                    Lorem Ipsum è un testo segnaposto utilizzato nel settore della tipografia e
+                    della stampa. Lorem Ipsum è considerato il testo segnaposto standard sin dal
+                    sedicesimo secolo, quando un anonimo tipografo prese una cassetta di caratteri
+                    e li assemblò per preparare un testo campione. È sopravvissuto non solo a più
+                    di cinque secoli, ma anche al passaggio alla videoimpaginazione, pervenendoci
+                    sostanzialmente inalterato. Fu reso popolare, negli anni ’60, con la
+                    diffusione dei fogli di caratteri trasferibili “Letraset”, che contenevano
+                    passaggi del Lorem Ipsum, e più recentemente da software di impaginazione come
+                    Aldus PageMaker, che includeva versioni del Lorem Ipsum.
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12" id="talk-content">
+                    <h2>Slides</h2>
+                    <iframe src="{{ page.slideshare-url }}" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/GianlucaArbezzano/overview-and-opentracing-in-theory-by-gianluca-arbezzano" title="Overview and Opentracing in theory by Gianluca Arbezzano" target="_blank">Overview and Opentracing in theory by Gianluca Arbezzano</a> </strong></div>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="row" id="speaker-box">
+                <h3>The speaker</h3>
+                <div class="col-md-12">
+                    <img class="img-fluid" src="{{ page.speaker-img }}">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <h4>{{ page.speaker }}</h4>
+                    <p>{{ page.speaker-description }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% include footer.html %}
+
+<script>
+$(function() {
+    $('#videoWrapper').height(function(){
+       return $(window).height() * 0.7;
+    });
+    $('#videoWrapper iframe').height(function(){
+       return $(window).height() * 0.7;
+    });
+});
+</script>

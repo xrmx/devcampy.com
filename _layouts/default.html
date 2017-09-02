@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-language" content="en">
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+        <meta name="description" content="{{ page.summary }}">
+        <meta name="keywords" content="{{page.tags | join: ', '}}">
+        <meta name="google-site-verification" content="FoOIQ005srOjHlH19pNWapHvlOOVgCqHsz47IfQ6QNo" />
+        <link rel="canonical" href="{{ site.MY_URL }}{{ page.url | replace:'index.html',''}}">
+
+        <meta property="og:title" content="{{ page.title }}" />
+        <meta property="og:site_name" content="gianarb blog"/>
+        <meta property="og:url" content="{{site.MY_URL}}{{page.url}}" />
+        <meta property="og:description" content="{{ page.summary }}" />
+        <meta property="og:type" content="article" />
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:image" content="{{site.MY_URL}}{{ page.img }}" />
+
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="/dist/css/style.css">
+        <link href="https://fonts.googleapis.com/css?family=Baloo+Tammudu" rel="stylesheet">
+
+        <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="/dist/js/popper.js"></script>
+        <script src="/dist/js/bootstrap.min.js"></script>
+    </head>
+
+    <body>
+        {{ content }}
+    </body>
+
+</html>
