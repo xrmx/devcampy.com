@@ -8,8 +8,8 @@ layout: default
 
 <div class="container" id="posts">
     <h1>Blog <small class="text-muted">and news about the events</small></h1>
-	{% for post in site.categories['talks'] %}
-	<div class="row">
+	{% for post in site.posts %}
+	<div class="row post">
 		<div class="col-md-4">
 		  <img class="img-fluid" src="{{ post.img }}">
 		</div>
