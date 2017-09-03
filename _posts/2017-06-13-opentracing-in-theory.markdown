@@ -6,7 +6,7 @@ img: "https://i.ytimg.com/vi/Sm3hVADls1o/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq
 youtube-url: "https://www.youtube.com/embed/Sm3hVADls1o"
 slideshare-url: "https://www.slideshare.net/slideshow/embed_code/key/ML6qFakbt9EI90"
 speaker: "Gianluca Arbezzano"
-speaker-img: "https://lh5.googleusercontent.com/oQ1QZr7MVtsnGdkx8IWEqYcdO1W4W40clxlegFfYUsaamuImXUD9zuEEMT7X5RCgq0T3v1_gnjdU2vI=w1916-h951"
+speaker-img: "https://avatars1.githubusercontent.com/u/1630267?v=4&s=460"
 speaker-description: "Traveler, speaker, container guard, CNCF Ambassador,
 Docker Captain, I grow my 🍅🌶️🍓🍆! . SRW at InfluxDB.."
 event: "CNCF Italy"
