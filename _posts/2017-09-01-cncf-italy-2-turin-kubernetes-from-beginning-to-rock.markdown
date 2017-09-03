@@ -70,7 +70,7 @@ etcd, operators)
 <div class="row">
     <div class="col-md-4">
         <img class="img-fluid"
-        src="https://pbs.twimg.com/profile_images/767047234823258113/qXT_OIWS_400x400.jpg">
+        src="https://secure.meetupstatic.com/photos/event/5/1/f/4/600_464240980.jpeg">
     </div>
     <div class="col-md-8">
 <p class="lead">Luca Bruno</p>
