@@ -71,6 +71,9 @@ layout: default
 			</div>
 		</div>
 	</div>
+	<div class="container">
+		{% include mailing-list.html %}
+	</div>
 </div>
 
 {% include footer.html %}
