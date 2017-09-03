@@ -6,51 +6,81 @@ layout: post
 title: "CNCF Community Code of Conduct"
 ---
 
-<h2>Contributor Code of Conduct</h2>
+<div class="field field-type-text-with-summary">
 
-<p>As contributors and maintainers of this project, and in the interest of fostering
-an open and welcoming community, we pledge to respect all people who contribute
-through reporting issues, posting feature requests, updating documentation,
-submitting pull requests or patches, and other activities.</p>
 
-<p>We are committed to making participation in this project a harassment-free experience for
-everyone, regardless of level of experience, gender, gender identity and expression,
-sexual orientation, disability, personal appearance, body size, race, ethnicity, age,
-religion, or nationality.</p>
+<p dir="ltr"><strong>EXPECTED BEHAVIOR</strong></p>
+<p dir="ltr">All event participants are expected to behave in accordance with
+professional standards, with both the Linux Foundation Code of Conduct as well
+as their respective employer's policies governing &nbsp;appropriate workplace
+behavior, and applicable laws</p>
+<p dir="ltr"><strong>UNACCEPTABLE BEHAVIOR</strong></p>
+<p dir="ltr">Harassment will not be tolerated in any form, including but not
+limited to harassment based on gender, gender identity and expression, sexual
+orientation, disability, physical appearance, body size, race, age, religion
+or any other status protected by laws in which the conference or program is
+being held. Harassment includes the use of abusive, offensive or degrading
+language, intimidation, stalking, harassing photography or recording,
+inappropriate physical contact, sexual imagery and unwelcome sexual advances
+or requests for sexual favors. Any report of harassment at one of our events
+will be addressed immediately. Participants asked to stop any harassing
+behavior are expected to comply immediately. Anyone who witnesses or is
+subjected to unacceptable behavior should notify a conference organizer at
+once.</p> <p dir="ltr">Exhibitors should not use sexualized images,
+activities, or other material in their booths and must refrain from the use of
+sexualized clothing/uniforms/costumes, or otherwise creating a sexualized
+environment. Speakers should not use sexual language, images, or any language
+or images that would constitute harassment as defined above in their
+talks.</p>
+<p dir="ltr"><strong>CONSEQUENCES OF UNACCEPTABLE BEHAVIOR</strong></p>
+<p dir="ltr">If a participant engages in harassing behavior, the conference
+organizers may take any action they deem appropriate, ranging from issuance of
+a warning to the offending individual to &nbsp;expulsion from the conference
+with no refund, depending on the circumstances The Linux Foundation reserves
+the right to exclude any participant found to be engaging in harassing
+behavior from participating in any further Linux Foundation events, trainings
+or other activities.</p>
+<p dir="ltr"><strong>WHAT TO DO IF YOU WITNESS OR ARE SUBJECT TO UNACCEPTABLE BEHAVIOR</strong></p>
+<p dir="ltr">If you are being harassed, notice that someone else is being
+harassed, or have any other concerns relating to harassment, please contact a
+member of event staff immediately. Event staff can be identified by
+t-shirts/staff badges onsite; and an organizer can be found at the event
+registration counter at any time. You are also encouraged to contact Gianluca
+Arbezzano, gianarb92 (at) gmail (dot) com.</p>
+<p dir="ltr"><strong>INCIDENT RESPONSE</strong></p>
+<p dir="ltr">Our staff has has had incident response training and responds to
+harassment reports and does so in accordance with the process recommended by
+the Ada Initiative, which can be found <a
+href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports">here</a>
+on the Geek Feminism Wiki. As referenced above, if a participant engages in
+harassing behavior, the conference organizers may take any action they deem
+appropriate, ranging from issuance of a warning to the offending individual to
+&nbsp;expulsion from the conference with no refund, depending on the
+circumstances The Linux Foundation reserves the right to exclude any
+participant found to be engaging in harassing behavior from participating in
+any further Linux Foundation events, trainings or other activities.</p> <p
+dir="ltr">Conference staff will also provide support to victims, including,
+but not limited to:</p>
+<ul><li dir="ltr">
+<p dir="ltr">Providing an escort</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Contacting hotel/venue security or local law enforcement</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Briefing key event staff to for response/victim assistance</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">And otherwise assisting those experiencing harassment to ensure that they feel safe for the duration of the conference.</p>
+</li>
+</ul><p dir="ltr"><strong>PRE-EVENT CONCERNS</strong></p>
+<p dir="ltr">If you are planning to attend an upcoming event, and have
+concerns regarding another individual who may be present, please contact
+Gianluca Arbezzano, gianarb92 (at) gmail (dot) com. Precautions will be taken
+to ensure a victim’s comfort and safety, including, but not limited to:
+providing an escort, prepping onsite event staff, keeping victim and harasser
+from attending the same talks/social events and providing onsite contact cell
+phone numbers for immediate contact.</p>
+</div>
 
-<p>Examples of unacceptable behavior by participants include:</p>
-
-<ul>
-    <li>The use of sexualized language or imagery</li>
-    <li>Personal attacks</li>
-    <li>Trolling or insulting/derogatory comments</li>
-    <li>Public or private harassment</li>
-    <li>Publishing other's private information, such as physical or electronic addresses,
-     without explicit permission</li>
-    <li>Other unethical or unprofessional conduct.</li>
-</ul>
-
-<p>Project maintainers have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are not
-aligned to this Code of Conduct. By adopting this Code of Conduct, project maintainers
-commit themselves to fairly and consistently applying these principles to every aspect
-of managing this project. Project maintainers who do not follow or enforce the Code of
-Conduct may be permanently removed from the project team.</p>
-
-<p>This code of conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community.</p>
-
-<p>Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting a CNCF project maintainer, Sarah Novotny <sarahnovotny@google.com>, and/or Dan Kohn <dan@linuxfoundation.org>.</p>
-
-<p>This Code of Conduct is adapted from the Contributor Covenant
-(http://contributor-covenant.org), version 1.2.0, available at
-http://contributor-covenant.org/version/1/2/0/</p>
-
-<h2>CNCF Events Code of Conduct</h2>
-
-<p>CNCF events are governed by the Linux Foundation [Code of
-Conduct](http://events.linuxfoundation.org/events/cloudnativecon/attend/code-of-conduct)
-available on the event page. This is designed to be compatible with the above
-policy and also includes more details on responding to incidents.</p>
-
-<small>We are following the <a href="" target="_blank">CNCF code of conduct<a></small>
+<small>We are following the <a href="http://events.linuxfoundation.org/events/cloudnativecon/attend/code-of-conduct" target="_blank">CNCF code of conduct<a></small>

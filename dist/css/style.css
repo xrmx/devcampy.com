@@ -6097,6 +6097,14 @@ footer {
   padding-top: 1rem;
   padding-bottom: 1rem; }
 
+#posts {
+  padding-top: 1rem;
+  padding-bottom: 1rem; }
+
+#posts > h1 {
+  padding-top: 1rem;
+  padding-bottom: 1rem; }
+
 #post {
   padding-top: 1rem;
   padding-bottom: 1rem; }
