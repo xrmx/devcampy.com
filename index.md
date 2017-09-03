@@ -25,6 +25,10 @@ layout: default
 				</blockquote>
 			</p>
 		</div>
+        <div class="col-md-4 text-right">
+            <img src="/img/woody.png" style="max-height: 380px;" class="img-fluid">
+            <h2 style="color:white">"Hello! I am Woody! I am <b>campy</b> woodpecker..."</h2>
+        </div>
 	</div>
 
 	<div class="row bg-white inter-row-pad" id="home-pictures">
