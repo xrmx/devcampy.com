@@ -2,7 +2,8 @@
 layout: talk
 title:  "Opentracing in theory"
 description: "Gianluca Arbezzano at CNCF-Italy Meetup to give an overview about the group and about Opentracing"
-img: "https://i.ytimg.com/vi/Sm3hVADls1o/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBWj9xfCs-xFRK7ieG8xx7UZ3T2dA"
+img: "/img/1-cncf-gianarb.jpg"
+video-img: "/img/1-cncf-gianarb.jpg"
 youtube-url: "https://www.youtube.com/embed/Sm3hVADls1o"
 slideshare-url: "https://www.slideshare.net/slideshow/embed_code/key/ML6qFakbt9EI90"
 speaker: "Gianluca Arbezzano"
