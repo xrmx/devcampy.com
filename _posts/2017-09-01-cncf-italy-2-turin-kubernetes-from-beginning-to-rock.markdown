@@ -94,8 +94,21 @@ https://twitter.com/fabiodasoghe</p>
     </div>
 </div>
 
-
-
-
 Take your seat
 [Meetup.com](https://www.meetup.com/CNCF-Italy/events/243039837/)!
+
+<div class="row justify-content-md-center">
+    <div class="col "></div>
+    <div class="col-md-auto">
+        <h3>This meetup is sponsored by: </h3>
+        <div class="row">
+            <div class="col text-center">
+                <img style="max-height:150px" src="/img/cognitio.png" class="fluid-img"><p>Cognitio SRL</p>
+            </div>
+            <div class="col text-center">
+                <img style="max-height:150px" src="/img/toolbox_logo.jpg" class="fluid-img"><p>Toolbox SRL</p>
+            </div>
+        </div>
+    </div>
+    <div class="col"></div>
+</div>
