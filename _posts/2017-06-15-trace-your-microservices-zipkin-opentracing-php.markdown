@@ -6,7 +6,7 @@ description: "Walter Dal Mut at CNCF-Italy Meetup to speak about PHP, Zipkin, op
 youtube-url: "https://www.youtube.com/embed/s24U1NF6dlc"
 img: "https://i.ytimg.com/vi/s24U1NF6dlc/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLATPQTAmTPSK36F_n3h33sPjMfNug"
 video-img: "https://i.ytimg.com/vi/s24U1NF6dlc/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLATPQTAmTPSK36F_n3h33sPjMfNug"
-slideshare-url: "https://www.slideshare.net/slideshow/embed_code/key/ML6qFakbt9EI90"
+slideshare-url: "https://www.slideshare.net/slideshow/embed_code/key/ks9IgFdsaJugCa"
 speaker: "Walter Dal Mut"
 speaker-description: "Working @CorleyCloud and @UpCloo with @gabrielemittica! I
 love my sweetheart @Laura_S82 and my honey cat"
