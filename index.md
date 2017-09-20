@@ -32,13 +32,24 @@ layout: default
 	</div>
 
 	<div class="row bg-white inter-row-pad" id="home-pictures">
-		<div class="col-md-4 small-pad">
+		<div class="col-md-3 small-pad">
 			<img class="img-fluid" src="https://secure.meetupstatic.com/photos/event/3/3/a/5/highres_462973221.jpeg" />
 		</div>
-		<div class="col-md-4 small-pad">
+		<div class="col-md-3 small-pad">
 			<img class="img-fluid" src="https://secure.meetupstatic.com/photos/event/3/3/f/4/highres_462973300.jpeg" />
 		</div>
-		<div class="col-md-4 small-pad">
+		<div class="col-md-3 small-pad bg-purple" style="color:white">
+            <i class="fa fa-twitter fa-lg"></i>
+            <blockquote class="blockquote align-middle text-center">
+              <p class="mb-0">
+                  #FBF to June’s #CNCFItaly meetup check out recordings of the
+                  #microservices + @opentracing presentations here:
+                  http://bit.ly/2vLtztX
+              </p>
+              <footer class="blockquote-footer"><cite title="Source Title">by CNCF</cite></footer>
+			</blockquote>
+		</div>
+		<div class="col-md-3 small-pad">
 			<img class="img-fluid" src="https://secure.meetupstatic.com/photos/event/3/3/d/2/highres_462973266.jpeg" />
 		</div>
 	</div>

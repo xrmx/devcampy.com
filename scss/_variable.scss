@@ -1,6 +1,10 @@
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
-$body-bg:							#f2efef; 
-$electricBlue: 						#0080FF;
+@import "../node_modules/font-awesome/scss/font-awesome.scss";
+
+$body-bg:							#f2efef;
+$electricBlue: 						#0080ff;
+$darkBlue:                          #3d99be;
+$purple:                            #56317a;
 $navbar-dark-color: 				$white;
 $navbar-dark-hover-color:           rgba($white,.5);
 $navbar-dark-active-color:          rgba($white,1);
@@ -12,9 +16,7 @@ $font-size-lg:   1.50rem;
 $font-size-sm:   .875rem;
 $headings-font-family: Baloo Tammudu, serif;
 
-body {
-    font-size:1.20rem;
-}
+//background-image: linear-gradient(to right, #3ab5b0 0%, #3d99be 31%, #56317a 100%);
 
 h1,h2,h3,h4,h5,h6 {
     font-family: Baloo Tammudu, cursive;
@@ -26,6 +28,14 @@ h1,h2,h3,h4,h5,h6 {
 }
 .bg-electric-blue {
   background-color: $electricBlue;
+}
+
+.bg-purple {
+  background-color: $purple;
+}
+
+.bg-dark-blue {
+  background-color: $darkBlue;
 }
 
 .text-electric-blue {
