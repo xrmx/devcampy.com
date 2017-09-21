@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "#2 CNCF Italy OpenTracing theory and practice at Toolbox
+title:  "#3 CNCF Italy OpenTracing theory and practice at Toolbox
 Turin"
 description: "Attend the first CNCF Meetup in Italy all about Opentracing,
 microservices and clouds."

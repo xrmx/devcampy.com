@@ -3,7 +3,7 @@ layout: talk
 title:  "Orbiter: an OSS Docker Swarm Autoscaler - Gianluca"
 description: "Gianluca Arbezzano at Docker Randstand Meetup speaks about Docker
 Swarm API and autoscaling with Orbiter."
-img: "/img/1-amsterdam-oribter-gianarb.jpg"
+img: "/img/1-amsterdam-orbiter-gianarb.jpg"
 video-img: "/img/1-amsterdam-orbiter-gianarb.jpg"
 youtube-url: "https://www.youtube.com/embed/p5Fz2hWCUms"
 slideshare-url: "https://www.slideshare.net/slideshow/embed_code/key/iANVB3ucBFbTr"
