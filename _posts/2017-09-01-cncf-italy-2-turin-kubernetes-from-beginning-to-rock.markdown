@@ -1,9 +1,13 @@
 ---
 layout: post
-title:  "#3 CNCF Italy OpenTracing theory and practice at Toolbox
+title:  "#3 Kubernetes from the beginning to Rock! with CoreOS & Cognitio in
 Turin"
-description: "Attend the first CNCF Meetup in Italy all about Opentracing,
-microservices and clouds."
+description: "During this event, we will have an overview of what an
+orchestrator is, why we need one and we will learn how and why Cognito, an
+Italian Startup uses it to support its business. After that, now that we know
+what it is we will listen about a use case from CoreOS one of the biggest
+company involved in the Kubernetes development and all the things related to
+containers."
 img: "https://severalnines.com/sites/default/files/kube7-logo.png"
 date:   2017-09-01 08:10:58 +0000
 categories: news cncf-italy
@@ -67,38 +71,33 @@ etcd, operators)
 
 ## The speakers
 
-<div class="row">
-    <div class="col-md-4">
+<div class="row justify-content-md-center">
+    <div class="col "></div>
+    <div class="col-md-4 text-center">
         <img class="img-fluid"
-        src="https://secure.meetupstatic.com/photos/event/5/1/f/4/600_464240980.jpeg">
+        src="/img/speaker-luca-bruno.jpg">
+        <p class="lead">Luca Bruno</p>
+        <p>CoreOS Engineer, Debian Developer and enthusiast FLOSS supporter.
+        https://twitter.com/lucabruno</p>
     </div>
-    <div class="col-md-8">
-<p class="lead">Luca Bruno</p>
-<p>CoreOS Engineer, Debian Developer and enthusiast FLOSS supporter.
-https://twitter.com/lucabruno</p>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-md-4">
+    <div class="col-md-4 text-center">
         <img class="img-fluid"
-        src="https://cognitio.it/images/team/cognitio-fabio.png">
+        src="/img/speaker-fabiodesoghe.png">
+        <p class="lead">Fabio Da Soghe</p>
+        <p>Software engineer, da sempre appassionato di informatica, ha iniziato nel 1997
+        sviluppando videogiochi per poi passare in ambito business dove ha lavorato per
+        lo più su backend web per varie aziende in vari settori. Nel 2012 fonda la
+        Cognitio, scopre il cloud e i container e impara di nuovo tutto dall'inizio.
+        https://twitter.com/fabiodasoghe</p>
     </div>
-    <div class="col-md-8">
-<p class="lead">Fabio Da Soghe</p>
-<p>Software engineer, da sempre appassionato di informatica, ha iniziato nel 1997
-sviluppando videogiochi per poi passare in ambito business dove ha lavorato per
-lo più su backend web per varie aziende in vari settori. Nel 2012 fonda la
-Cognitio, scopre il cloud e i container e impara di nuovo tutto dall'inizio.
-https://twitter.com/fabiodasoghe</p>
-    </div>
+    <div class="col"></div>
 </div>
 
 Take your seat
 [Meetup.com](https://www.meetup.com/CNCF-Italy/events/243039837/)!
 
 <div class="row justify-content-md-center">
-    <div class="col "></div>
+    <div class="col"></div>
     <div class="col-md-auto">
         <h3>This meetup is sponsored by: </h3>
         <div class="row">
