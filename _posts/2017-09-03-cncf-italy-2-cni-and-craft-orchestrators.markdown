@@ -70,7 +70,7 @@ https://twitter.com/fntlnz</p>
 
 <div class="row">
     <div class="col-md-4">
-        <img class="img-fluid" src="https://avatars1.githubusercontent.com/u/1630267?v=4&s=460">
+        <img class="img-fluid" src="/img/speaker-gianarb.jpg">
     </div>
     <div class="col-md-8">
 <p class="lead">Gianluca Arbezzano</p>
