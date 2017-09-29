@@ -15,7 +15,9 @@ event-link: "https://www.meetup.com/Docker-Randstad/events/242529039/"
 date:   2017-09-13 08:10:58 +0000
 categories: talks docker-meetup
 ---
-Gianluca has been working on a project called Orbiter, an open source tool
-designed to be an easy to maintain autoscaler for Docker Swarm. He will present
-an overview about Docker Swarm & demo this project and take your questions and
-suggestions.
+Gareth Rushgrove is a principal software engineer at Puppet. He works remotely
+from Cambridge, UK, building interesting tools for people to better manage
+infrastructure. Previously, Gareth worked for the UK Government Digital Service
+focused on infrastructure, operations, and information security. When not
+working he can be found writing the DevOps Weekly newsletter or hacking on
+software in newfangled programming languages.
