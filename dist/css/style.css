@@ -8332,6 +8332,9 @@ h1, h2, h3, h4, h5, h6 {
 .text-electric-blue {
   color: #0080ff; }
 
+.text-white {
+  color: #fff; }
+
 body {
   background-color: #f2efef; }
 
