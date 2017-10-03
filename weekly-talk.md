@@ -48,7 +48,7 @@ look at it and we will share it with you. Once a week."
 	<div class="container" style="margin-top:5em;margin-bottom:5em">
         <div class="row justify-content-md-center">
             <div class="col-md-3">
-                <i style="font-size:10em" class="fa fa-thumbs-up" aria-hidden="true"></i>
+                <i style="font-size:10em;color:#0080FF" class="fa fa-thumbs-up" aria-hidden="true"></i>
             </div>
             <div class="col-md-4">
                 <h2>Why us?</h2>
