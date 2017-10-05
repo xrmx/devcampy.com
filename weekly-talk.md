@@ -15,7 +15,7 @@ look at it and we will share it with you. Once a week."
 		<div class="col-md-2"></div>
 		<div style="margin-top:5em; margin-bottom:5em" class="small-pad col-md-4 text-center">
 			<h3 class="text-white">Do you watch tech talks? Get the best talk every week to keep you
-            up to date. From big conferences like DockerCon, VelocyConf,
+            up to date. From big conferences like DockerCon, VelocityConf,
             ReInvent but also from
             local meetups. Everywhere there is a good content!</h3>
 		</div>
