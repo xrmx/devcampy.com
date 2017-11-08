@@ -34,10 +34,10 @@ title: "DevCampy - The best place to stay in touch with technology"
 
 	<div class="row bg-white inter-row-pad" id="home-pictures">
 		<div class="col-md-3 small-pad">
-			<img class="img-fluid" src="https://secure.meetupstatic.com/photos/event/3/3/a/5/highres_462973221.jpeg" />
+			<img class="img-fluid" src="/img/home-1.jpeg" />
 		</div>
 		<div class="col-md-3 small-pad">
-			<img class="img-fluid" src="https://secure.meetupstatic.com/photos/event/3/3/f/4/highres_462973300.jpeg" />
+			<img class="img-fluid" src="/img/home-2.jpeg" />
 		</div>
 		<div class="col-md-3 small-pad bg-purple" style="color:white">
             <i class="fa fa-twitter fa-lg"></i>
@@ -51,7 +51,7 @@ title: "DevCampy - The best place to stay in touch with technology"
 			</blockquote>
 		</div>
 		<div class="col-md-3 small-pad">
-			<img class="img-fluid" src="https://secure.meetupstatic.com/photos/event/3/3/d/2/highres_462973266.jpeg" />
+			<img class="img-fluid" src="/img/home-3.jpeg" />
 		</div>
 	</div>
 
