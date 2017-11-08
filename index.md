@@ -3,6 +3,7 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
+title: "DevCampy - The best place to stay in touch with technology"
 ---
 {% include nav.html %}
 
