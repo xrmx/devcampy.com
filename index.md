@@ -42,11 +42,11 @@ layout: default
             <i class="fa fa-twitter fa-lg"></i>
             <blockquote class="blockquote align-middle text-center">
               <p class="mb-0">
-                  #FBF to June’s #CNCFItaly meetup check out recordings of the
-                  #microservices + @opentracing presentations here:
-                  http://bit.ly/2vLtztX
+              Ready for the next #CNCFItaly meetup? Nov 22nd we will be speaking
+              about @PrometheusIO and @grpcio/@opentracing <a
+              href="https://t.co/lUM2tgpGEu">https://t.co/lUM2tgpGEu</a>
               </p>
-              <footer class="blockquote-footer"><cite title="Source Title">by CNCF</cite></footer>
+              <footer class="blockquote-footer"><cite title="Source Title">by sighup_</cite></footer>
 			</blockquote>
 		</div>
 		<div class="col-md-3 small-pad">
