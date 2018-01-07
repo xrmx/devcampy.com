@@ -3,8 +3,8 @@ layout: talk
 title:  "Kelsey Hightower HashiConf 2017 Keynote"
 description: "Kelsey Hightower presents at HashiConf 2017 speaking about
 Kubernetes integration with the HashiStack: Nomad, Consul and Vault."
-img: "/img/hashcorp-kelsey-2017.webp"
-video-img: "/img/hashcorp-kelsey-2017.webp"
+img: "/img/hashcorp-kelsey-2017.png"
+video-img: "/img/hashcorp-kelsey-2017.png"
 youtube-url: "https://www.youtube.com/embed/v77FFbQwC6E"
 speaker: "Kelsey Hightower"
 speaker-img: "/img/kelsey.png"
