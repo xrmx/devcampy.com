@@ -36,16 +36,16 @@ allowfullscreen></iframe>
 
 ### Schedule
 
-**6.30 Welcome the door is open.**
+**18.30 Welcome the door is open.**
 
-**7.00 - 7.45 Arduino Create migration: from EC2 to Kubernetes. By Luca Cipriani**
+**19.00 - 19.45 Arduino Create migration: from EC2 to Kubernetes. By Luca Cipriani**
 
 A scalable architecture on a single domain and a path based routing.  How
 Arduino moved most of the new APIs from EC2 to Kubernetes using a custom ingress
-based on Caddy Server. The api2.arduin.cc endpoint now have couple thousand
-req/s 7.45 - 8.30 Second talk will be published soon!
+based on Caddy Server. The api2.arduino.cc endpoint now have couple thousand
+req/s.
 
-**7-45 - 8.30 Kubernetes Beyond**
+**19.45 - 20.30 Kubernetes Beyond**
 
 Kubernetes is a top noch framework providing the foundations for the
 orchestration and life-cicle management of cloud-native applications.  Despite
@@ -57,7 +57,7 @@ inspiration from, in this session we will present how Kubernetes can be extended
 using Custom Resource Definitions (CRD) and Operators bringing Kubernetes
 automation to the next level.
 
-20.30-21.30 Aperitivo and networking sponsored by. Leva Engineering 
+**20.30-21.30 Aperitivo and networking sponsored by Leva Engineering**
 
 Take your seat
 [Meetup.com](https://www.meetup.com/CNCF-Italy/events/243039837/)!
