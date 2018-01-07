@@ -1,12 +1,15 @@
 ---
 layout: post
 title:  "#5 Kubenertes everywhere"
-description: ""
+description: "Attends reserve your set at the first CNCF Italy Meetup of 2018.
+We will have an all night about kubernetes. Andrea Tosatto from PowerDNS will
+speak with us about his experience writing Kubernetes Operators. Luca Cipriani
+CIO at Arduino cc will share their journey migrating from AWS EC2 to Kubenertes."
 img: "/img/k8s-everywhere.jpeg"
 date: 2018-01-07 08:10:58 +0000
 categories: news cncf-italy
 ---
-**What is CNCF? Cos'é CNCF?**
+### What is CNCF? Cos'é CNCF?
 
 CNCF is a branch of The Linux Foundation focused on Cloud Computing and modern
 scalable architectures. it's supporting tools like Kubernetes, Prometheus,
@@ -21,7 +24,7 @@ a saperne di piú unisciti a noi! hashtag #CNCFItaly su twitter .
 Take your seat
 [Meetup.com](https://www.meetup.com/CNCF-Italy/events/243039837/)!
 
-**Schedule**
+### Schedule
 
 **7.00 - 7.45 Arduino Create migration: from EC2 to Kubernetes. By Luca Cipriani**
 
@@ -47,31 +50,30 @@ automation to the next level.
 Take your seat
 [Meetup.com](https://www.meetup.com/CNCF-Italy/events/243039837/)!
 
-**Speakers**
+### Speakers
 
-<div class="row">
-    <div class="col-md-4">
+<div class="row justify-content-md-center">
+
+    <div class="col-md-4 text-center">
         <img class="img-fluid"
         src="/img/luca-cipriani-avatar.jpg">
+        <p class="lead">Luca Cipriani - <a href="https://twitter.com/mastrolinux" target="_blank">Twitter</a></p>
+        <p>He loves software development and jazz music.</p>
     </div>
-    <div class="col-md-8">
-    <p class="lead">Luca Cipriani - <a href="https://twitter.com/mastrolinux" target="_blank">Twitter</a></p>
-    <p>CIO at @Arduino</p>
-    <p></p>
-    </div>
-</div>
 
-<div class="row">
-    <div class="col-md-4">
+    <div class="col-md-4 text-center">
         <img class="img-fluid" src="/img/speaker-andrea-tosatto.jpg">
+        <p class="lead">Andrea Tosatto - <a href="https://twitter.com/_hilbert_" target="_blank">Twitter</a></p>
+        <p>Technical Pre-Sales Architect - Open-Xchange. Software engineer
+        Automation fan-boy. Head in the clouds. Loving Containers,
+        Micro-Services, OpenSource, Golang and Python. Hacking Ansible,
+        OpenStack and Docker.</p>
     </div>
-    <div class="col-md-8">
-    <p class="lead">Andrea Tosatto - <a href="https://twitter.com/_hilbert_" target="_blank">Twitter</a></p>
-    <p>Technical Pre-Sales Architect - Open-Xchange</p>
-    </div>
+
 </div>
 
-*Sponsors* 
+### Sponsors
+
 The meetup is hosted and sponsored by [Leva
-Engineering](https://twitter.com/mastrolinux). A bit
-thanks!  
+Engineering](http://leva.io/). A big
+thanks!
