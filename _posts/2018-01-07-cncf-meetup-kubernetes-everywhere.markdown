@@ -24,7 +24,19 @@ a saperne di piú unisciti a noi! hashtag #CNCFItaly su twitter .
 Take your seat
 [Meetup.com](https://www.meetup.com/CNCF-Italy/events/243039837/)!
 
+### Where, when, how
+The meetup will happen **Wednesday, January 17, 2018** at **18.30**
+The meetup is hosted by [Leva Engineering](http://leva.io). The office is near
+by Stazione Porta Nuova. Precisely **Via Gioberti, 18, Torino, Metropolitan City of Turin**.
+
+<iframe
+src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2818.1642894296047!2d7.672262715718153!3d45.06217826819885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47886d6ad035afa9%3A0x5c9ddc0424dc58c0!2sVia+Vincenzo+Gioberti%2C+18%2C+10128+Torino+TO!5e0!3m2!1sen!2sit!4v1515324545670"
+width="600" height="450" frameborder="0" style="border:0"
+allowfullscreen></iframe>
+
 ### Schedule
+
+**6.30 Welcome the door is open.**
 
 **7.00 - 7.45 Arduino Create migration: from EC2 to Kubernetes. By Luca Cipriani**
 
